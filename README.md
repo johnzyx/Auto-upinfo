@@ -1,3 +1,6 @@
+# Auto-upinfo
+Auto-upinfo copied from others for study purpose
+
 # 校园集结号自动报平安
 Hamibot自动化脚本，支持息屏解锁，定时，自定义夜间上报，你只管碎觉，上报交给脚本
 
