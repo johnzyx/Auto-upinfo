@@ -134,7 +134,7 @@ function checkUpStatus(){
             }
         });
     return tag
-}
+}//test
 var tag = checkUpStatus()
 
 if(!tag){
